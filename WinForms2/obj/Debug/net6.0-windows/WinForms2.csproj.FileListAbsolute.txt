@@ -1,0 +1,17 @@
+C:\Users\bilinac\Desktop\win forms2\WinForms2\bin\Debug\net6.0-windows\WinForms2.exe
+C:\Users\bilinac\Desktop\win forms2\WinForms2\bin\Debug\net6.0-windows\WinForms2.deps.json
+C:\Users\bilinac\Desktop\win forms2\WinForms2\bin\Debug\net6.0-windows\WinForms2.runtimeconfig.json
+C:\Users\bilinac\Desktop\win forms2\WinForms2\bin\Debug\net6.0-windows\WinForms2.dll
+C:\Users\bilinac\Desktop\win forms2\WinForms2\bin\Debug\net6.0-windows\WinForms2.pdb
+C:\Users\bilinac\Desktop\win forms2\WinForms2\obj\Debug\net6.0-windows\WinForms2.csproj.AssemblyReference.cache
+C:\Users\bilinac\Desktop\win forms2\WinForms2\obj\Debug\net6.0-windows\WinForms2.Form1.resources
+C:\Users\bilinac\Desktop\win forms2\WinForms2\obj\Debug\net6.0-windows\WinForms2.csproj.GenerateResource.cache
+C:\Users\bilinac\Desktop\win forms2\WinForms2\obj\Debug\net6.0-windows\WinForms2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilinac\Desktop\win forms2\WinForms2\obj\Debug\net6.0-windows\WinForms2.AssemblyInfoInputs.cache
+C:\Users\bilinac\Desktop\win forms2\WinForms2\obj\Debug\net6.0-windows\WinForms2.AssemblyInfo.cs
+C:\Users\bilinac\Desktop\win forms2\WinForms2\obj\Debug\net6.0-windows\WinForms2.csproj.CoreCompileInputs.cache
+C:\Users\bilinac\Desktop\win forms2\WinForms2\obj\Debug\net6.0-windows\WinForms2.dll
+C:\Users\bilinac\Desktop\win forms2\WinForms2\obj\Debug\net6.0-windows\refint\WinForms2.dll
+C:\Users\bilinac\Desktop\win forms2\WinForms2\obj\Debug\net6.0-windows\WinForms2.pdb
+C:\Users\bilinac\Desktop\win forms2\WinForms2\obj\Debug\net6.0-windows\WinForms2.genruntimeconfig.cache
+C:\Users\bilinac\Desktop\win forms2\WinForms2\obj\Debug\net6.0-windows\ref\WinForms2.dll
